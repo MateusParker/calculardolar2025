@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: #1c0202;
+background: linear-gradient(90deg, rgba(28, 2, 2, 1) 0%, rgba(25, 9, 10, 1) 0%, rgba(23, 14, 17, 1) 0%, rgba(46, 105, 133, 1) 0%, rgba(9, 46, 56, 1) 0%, rgba(13, 78, 97, 1) 73%, rgba(22, 157, 198, 1) 100%, rgba(42, 122, 140, 1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#formulario{
+
+  max-width: 400px;
+  margin: 0  auto;
+  width: 100%;
+}
+
+#formulario input{
+
+  width: 100%;
+  height: 30px;
+  border-bottom: 1px white solid;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background-color: transparent;
+  color: white;
+
+}
+
+
+#formulario button{
+
+  width: 100%;
+  height: 40px;
+  font-family: serif;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  border: 0;
+  background-color: orangered;
+  padding: 10px
+  
+}
+
+#formulario h1{
+  text-align: center;
+  padding: 10px;
+  color: orangered;
+}
+
+#resultado{
+
+  max-width: 400px;
+  margin: 0  auto;
+  width: 100%;
+
+}
+
+#resultado p{
+
+  font-family: serif;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  
+}
