@@ -1,0 +1,1 @@
+# calculardolar2025
